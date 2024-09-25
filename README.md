@@ -3,7 +3,7 @@
 ## About me...
 - My aspirations are in full-stack web development and game development!
 - I officially began programming in high school, during the Xbox Game Camp New Orleans event!
-- I'm an official ColorStack member!
+- I am an official ColorStack member!
 - Dark Souls, Overwatch, Halo 3, Resident Evil 4, Silent Hill 4, and The Legend of Zelda Breath of the Wild are among my favorite games! (There are many, many more)
 ## My skills...
 ### Programming Languages
