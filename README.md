@@ -1,5 +1,5 @@
-## Hi there 👋
-
+![Image text](https://c.tenor.com/TCEyVCo9wG0AAAAC/tenor.gif)
+# Hi there! I'm Eddie, and this is my GitHub profile! 👋
 <!--
 **eacastr1/eacastr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
