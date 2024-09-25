@@ -1,5 +1,12 @@
 ![Image text](https://c.tenor.com/TCEyVCo9wG0AAAAC/tenor.gif)
-# Hi there! I'm Eddie, and this is my GitHub profile! 👋
+## Hi there! I'm Eddie, and this is my GitHub profile! 👋
+### About me...
+- My aspirations are in full-stack web development and game development!
+- I officially began programming in high school, during the Xbox Game Camp New Orleans event!
+- I'm an official ColorStack member!
+- Dark Souls, Overwatch, Halo 3, Resident Evil 4, Silent Hill 4, and The Legend of Zelda Breath of the Wild are among my favorite games! (There are many, many more)
+### My skills...
+![Image text](https://e7.pngegg.com/pngimages/913/851/png-clipart-responsive-web-design-html-world-wide-web-consortium-world-wide-web-angle-text.png)
 <!--
 **eacastr1/eacastr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
