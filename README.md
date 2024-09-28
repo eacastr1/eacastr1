@@ -7,11 +7,11 @@
 - Dark Souls, Overwatch, Halo 3, Resident Evil 4, Silent Hill 4, and The Legend of Zelda Breath of the Wild are among my favorite games! (There are many, many more)
 ## My skills...
 ### Programming Languages
-![My Skills](https://skillicons.dev/icons?i=java,js,cs,cpp,lua)
+![My Skills](https://skillicons.dev/icons?i=java,js,cs,lua)
 ### Relevant to Web Development 
 ![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,npm,react)
 ### Relevant to Game Development
-![My Skills](https://skillicons.dev/icons?i=unity,unreal,godot,robloxstudio)
+![My Skills](https://skillicons.dev/icons?i=unity,godot,robloxstudio)
 <!--
 **eacastr1/eacastr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
