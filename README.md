@@ -8,8 +8,10 @@
 ## My skills...
 ### Programming Languages
 ![My Skills](https://skillicons.dev/icons?i=java,js,cs)
+### Languages I've worked with
+![My Skills](https://skillicons.dev/icons?i=c,cpp,py)
 ### Relevant to Web Development 
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,npm,react)
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,npm,express,react)
 ### Relevant to Game Development
 ![My Skills](https://skillicons.dev/icons?i=unity,gamemakerstudio,godot)
 <!--
