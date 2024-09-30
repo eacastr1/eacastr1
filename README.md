@@ -6,13 +6,13 @@
 - I am an official ColorStack member!
 - Dark Souls, Overwatch, Halo 3, Resident Evil 4, Silent Hill 4, and The Legend of Zelda Breath of the Wild are among my favorite games! (There are many, many more)
 ## My skills...
-### Programming Languages
+### Programming languages
 ![My Skills](https://skillicons.dev/icons?i=java,js,cs)
-### Languages I've worked with
+### Programming languages I've worked with
 ![My Skills](https://skillicons.dev/icons?i=c,cpp,py)
-### Relevant to Web Development 
+### Relevant to web development 
 ![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,npm,express,react)
-### Relevant to Game Development
+### Relevant to game development
 ![My Skills](https://skillicons.dev/icons?i=unity,gamemakerstudio,godot)
 <!--
 **eacastr1/eacastr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
