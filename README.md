@@ -11,7 +11,7 @@
 ### Relevant to Web Development 
 ![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,npm,react)
 ### Relevant to Game Development
-![My Skills](https://skillicons.dev/icons?i=unity,godot,robloxstudio)
+![My Skills](https://skillicons.dev/icons?i=unity,gamemakerstudio,godot,robloxstudio)
 <!--
 **eacastr1/eacastr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
