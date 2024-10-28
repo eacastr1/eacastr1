@@ -7,9 +7,9 @@
 - Dark Souls, Overwatch, Halo 3, Resident Evil 4, Silent Hill 4, and The Legend of Zelda Breath of the Wild are among my favorite games! (There are many, many more)
 ## My skills...
 ### Programming languages
-![My Skills](https://skillicons.dev/icons?i=java,js,cs)
+![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,js)
 ### Programming languages I've worked with
-![My Skills](https://skillicons.dev/icons?i=c,cpp,py)
+![My Skills](https://skillicons.dev/icons?i=c,py)
 ### Relevant to web development 
 ![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,nodejs,npm,express,react)
 ### Relevant to game development
