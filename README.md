@@ -1,13 +1,13 @@
 ![Image text](https://c.tenor.com/TCEyVCo9wG0AAAAC/tenor.gif)
 # Hi there! I'm Eddie, and this is my GitHub profile! 👋
 ## About me...
-- My aspirations are in full-stack web development and game development!
+- My aspirations are in game development!
 - I officially began programming in high school, during the Xbox Game Camp New Orleans event!
 - I am an official ColorStack member!
 - Dark Souls, Overwatch, Halo 3, Resident Evil 4, Silent Hill 4, and The Legend of Zelda Breath of the Wild are among my favorite games! (There are many, many more)
 ## My skills...
 ### Programming languages
-![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,js)
+![My Skills](https://skillicons.dev/icons?i=cpp,cs,java)
 ### Programming languages I've worked with
 ![My Skills](https://skillicons.dev/icons?i=c,py)
 ### Relevant to game development
