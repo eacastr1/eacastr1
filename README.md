@@ -2,7 +2,7 @@
 # Hi there! I'm Eddie, and this is my GitHub profile! 👋
 ## My current projects
 - You Don't Belong: 2D top-down horror game
-- Never Go Alone: 2D side-scroller fantasy
+- Never Go Alone: 2D side-scroller fantasy (Originally top-down, working with: Jason, Fares, and Punches.)
 ### Play my projects here -> https://eacastr1.itch.io/ (in-progress, posting demos soon)
 ## My skills...
 ### Programming languages
