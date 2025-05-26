@@ -3,7 +3,7 @@
 ## My current projects
 - You Don't Belong: 2D top-down horror game
 - Never Go Alone: 2D side-scroller fantasy
-# Play my projects here -> https://eacastr1.itch.io/
+### Play my projects here -> https://eacastr1.itch.io/
 ## My skills...
 ### Programming languages
 ![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,lua)
